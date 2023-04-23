@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Alguns conceitos e propriedades que aprendi durante o projeto:
 
-- Conceitos da propriedades display
+- Conceitos da propriedade display
 - Conceito de webkit
 - Aplicar icones utilizando o ionicons
 - Comandos do Git
